@@ -59,6 +59,24 @@ A curated list of Computer Vision related conferences with event dates and paper
 |**ICIP**|7.50|60|Feb 7|27 -> 30 Oct 24|Abu Dhabi, UAE|
 |[**ACCV**](https://accv2024.org/home)|5.70|46|Jul 2|8 -> 12 Dec 2024|Hanoi, Vietnam|
 
+## 2025 
+
+|**2024**|[**Impact score**](https://research.com/conference-rankings/computer-science)|[**h5-index**](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)|**Paper Registration**|**Event Start-End Dates**|**Location**|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|**CVPR**|63.10|389| x | x |  x  |
+|**NIPS**|42.30|278| x  | x |  x  |
+|**ICCV**|40.60|239|-|-|-|
+|**ECCV**|33.20|186|  x  |  x  |  x  |
+|**ICML**|32.40|237|  x  |  x  |  x  |
+|**AAAI**|32.10|180|  x  |  x  |  x  |
+|**ICLR**|31.80|286|  x  |  x  |  x  |
+|**IJCAI**|19.20|120| x  |  x  |  x  |
+|**WACV**|9.70|76|  x  |  x  |  x  |
+|**BMVC**|9.50|75|  x  |  x  |  x  |
+|**ICIP**|7.50|60|  x  |  x  |  x  |
+|[**ACCV**](https://accv2024.org/home)|5.70|46|  x  |  x  |  x  |
+
+
 
 ## Journals
 
