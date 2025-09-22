@@ -11,21 +11,21 @@ A curated list of Computer Vision related conferences with event dates and paper
 
 |**2026**|[**Impact score**](https://research.com/conference-rankings/computer-science)|[**h5-index**](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)|**Paper Registration**|**Event Start-End Dates**|**Location**|
 | :-: | :-: | :-: | :-: | :-: | :-: |
-|[**CVPR**]([https://cvpr.thecvf.com/Conferences/2025](https://cvpr.thecvf.com/Conferences/2026))|62.60|389| 6 Nov '25 | 03->07 Jun  |  Denver, USA  |
-|[**NIPS**]()|40.60|278|  |  | San Diego, USA |
-|[**ICCV**]()|43.80|239| X |X| X|
-|[**ICLR**]()|38.10|286|  x  |  x  |  x  |
-|[**AAAI**]()|35.00|180|  x  |  x  |  x  |
-|[**ICML**]()|30.10|237|  X |  X |  X  |
-|[**ECCV**]()|29.60|186|  x  |  x  |  x  |
-|[**IJCAI**]()|21.10|120| x  |  x  |  x  |
-|[**ICIP**]()|8.60|60| X  |  X  |  X  |
-|[**ACCV**]()|3.60|46|  x  |  x  |  x  |
-|[**ICPR**]()|4.20|180|  x  |  x  |  x  |
-|[**BMVC**]()|6.90|75|  x  |  x  |  x  |
-|[**ECAI**]()|3.10|75|  x  |  x  |  x  |
-|[**IJCNN**]()|7.10|120| x  |  x  |  x  |
-|[**WACV**]()|2.40|76|  X | X  | X |
+|[**CVPR**](https://cvpr.thecvf.com/Conferences/2026)|62.60|389| 6 Nov '25 | 03->07 Jun  |  Denver, USA  |
+|**NIPS**|40.60|278| ~may | ~dec | San Diego, USA |
+|**ICCV**|43.80|239| ~mar | ~oct | X|
+|[**ICLR**](https://iclr.cc/)|38.10|286|  24 Sept '25  |  23->28 Apr  |  Rio, Brazil |
+|**AAAI**|35.00|180|  x  |  x  |  x  |
+|**ICML**|30.10|237|  X |  X |  X  |
+|[**ECCV**](https://eccv.ecva.net/)|29.60|186|  06 Mar  |  08->13 Sept  |  Sweden  |
+|[**IJCAI**](https://www.ijcai.org/future_conferences)|21.10|120| ~january  |  08->14 Aug  |  Germany  |
+|[**ICIP**](https://2026.ieeeicip.org/)|8.60|60| ~january  |  13->17 Sept  |  Finland  |
+|**ACCV**|3.60|46|  x  |  x  |  x  |
+|[**ICPR**](https://icpr2026.org/)|4.20|180|  20 Dec '25  |  16-20 Aug |  Lyon, France  |
+|**BMVC**|6.90|75|  ~may  |  ~november  |  x  |
+|**ECAI**|3.10|75|  ~april  |  ~october  |  x  |
+|**IJCNN**|7.10|120|  ~january |  ~july  |  x  |
+|**WACV**|2.40|76|  ~august | ~october  | X |
 
 
 ## 2025 
@@ -39,7 +39,6 @@ A curated list of Computer Vision related conferences with event dates and paper
 |[**ICML**](https://icml.cc/Conferences/2025)|32.40|237|  31 Jan  |  13 -> 19 Jul  |  Vancouver  |
 |[**ICLR**]5°|31.80|286|  x  |  x  |  x  |
 |[**ICIP**](https://2025.ieeeicip.org/)|7.50|60|  5 Feb  |  14->17 Sept  |  Anchorage, Alaska  |
-|[**ACCV**](https://accv2024.org/home)|5.70|46|  x  |  x  |  x  |
 |**AAAI**|32.10|180|  x  |  x  |  x  |
 |**ICPR**|32.10|180|  x  |  x  |  x  |
 |**BMVC**|9.50|75|  x  |  x  |  x  |
